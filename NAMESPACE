@@ -1,0 +1,5 @@
+import(quantreg)
+export(rrat)
+S3method(rrat, default)
+S3method(print, rrat)
+S3method(predict, rrat)
